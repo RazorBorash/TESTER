@@ -1,3 +1,2 @@
-if Script_key == "{key}" then
-    print("IT WORKED")
-end
+if Script_key == Script_key then
+        print("IT WORKED")
